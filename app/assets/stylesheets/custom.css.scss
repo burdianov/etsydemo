@@ -41,3 +41,12 @@ body {
     margin: 0px;
   }
 }
+.dropdown-menu a {
+  text-align: left;
+}
+.jumbotron {
+  background-image: url('banner.jpg');
+  h1, h2 {
+    font-family: guardian-egyptt, georgia, serif;
+  }
+}
